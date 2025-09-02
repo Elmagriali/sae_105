@@ -4,7 +4,7 @@ Auteurs : TAILLY Emmanuel & EL MAGRI Ali
 
 📝 Description
 
-Ce projet permet d'avoir la météo de nimporte quelle ville en Bourgogne, il faut ne pas faire d'erreur d'orthographe
+Ce projet permet d'avoir la météo de nimporte quelle ville en Bourgogne de 1950 à 2023, il faut ne pas faire d'erreur d'orthographe
 dans l'écriture du nom de la ville, ex : Nevers, c'est NEVERS-MARZY.
 
 L’application est :
