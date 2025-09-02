@@ -32,4 +32,32 @@ Insolation, rayonnement UV, humidité, neige fraîche
 
 Visualisation graphique des températures minimales et maximales.
 
+📂 Installation & Utilisation
+Prérequis
+
+Python 3.x
+
+Bibliothèques : tkinter, matplotlib, csv (incluses dans Python)
+Ajouter vos fichiers CSV dans le répertoire :
+
+fichiers_csv = [
+    "Q_21_previous-1950-2023_RR-T-Vent.csv",
+    "Q_58_previous-1950-2023_RR-T-Vent.csv",
+    "Q_71_previous-1950-2023_RR-T-Vent.csv",
+    "Q_89_previous-1950-2023_RR-T-Vent.csv",
+]
+Ces fichiers peuvent être retrouvé sur https://www.data.gouv.fr/datasets/donnees-climatologiques-de-base-quotidiennes/
+
+Lancer l’application 
+
+Conclusion
+
+Ce projet nous a permis de :
+
+Traiter et visualiser des données météorologiques
+
+Concevoir une interface utilisateur paramétrable et intuitive
+
+Développer des compétences pratiques en Python et Tkinter
+
 Gestion des erreurs pour les champs vides ou données introuvables.
