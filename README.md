@@ -4,7 +4,8 @@ Auteurs : TAILLY Emmanuel & EL MAGRI Ali
 
 📝 Description
 
-Ce projet permet à l’utilisateur d’obtenir des données météorologiques détaillées pour une date et une ville spécifiques en Bourgogne, en utilisant uniquement Python.
+Ce projet permet d'avoir la météo de nimporte quelle ville en Bourgogne, il faut ne pas faire d'erreur d'orthographe
+dans l'écriture du nom de la ville, ex : Nevers, c'est NEVERS-MARZY.
 
 L’application est :
 -Paramétrable : vous pouvez choisir la ville et la date.
